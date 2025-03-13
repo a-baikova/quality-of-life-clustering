@@ -7,19 +7,13 @@
 This project analyzes quality-of-life patterns across **241 EU NUTS-2 regions** using unsupervised learning techniques. Combining PCA and advanced clustering methods, we identified 7 distinct regional profiles.
 
 ## 💡 Methodology  
-1. **Data**  
-   - Source: 70+ Eurostat indicators across 11 domains (Economy, Health, Education, etc.) in the year 2021. 
-   - Preprocessing: MICE imputation for missing data, min-max scaling  
+- **Data**: 70+ Eurostat indicators across 11 domains (Economy, Health, Education, etc.) in the year 2021.  
 
-2. **Dimensionality Reduction**  
-   - PCA with Varimax rotation - 10 components (79.2% variance explained)  
+- **Dimensionality Reduction**: PCA with Varimax rotation, reducing 48 variables to 10 components (79.2% variance explained)  
 
-3. **Clustering**  
-   - Algorithms: Ward, Complete, K-Means, PAM, GMM - K-Means algorithm with 7 clusters
-   - Validation: Silhouette Score, and BIC
+- **Clustering**: Compared different algorithms: Ward, Complete, K-Means, PAM, GMM. K-Means had the best sillhouette score with 7 clusters
 
-4. **Interpretation**  
-   - Geospatial data visualization of results
+- **Interpretation**: Geospatial visualization of regional patterns from PCA components, cluster assignments, and profiling variables
   
 ## 📊 Tools & Libraries  
 - R
@@ -28,7 +22,7 @@ This project analyzes quality-of-life patterns across **241 EU NUTS-2 regions** 
 
 ## 🔍 Results  
 
-PCA Results
+**PCA Results**
 
 - Economic Prosperity (GDP, compensation, life expectancy)
 - Public Infrastructure & Urban Development (rail networks, healthcare)
@@ -37,7 +31,7 @@ PCA Results
 - Education & Food Security (education participation)
 - Demographics & Fertility (age structure, fertility rates)
 
-Clustering Results
+**Clustering Results**
 - Cluster 1: Regions with highest economic prosperity (PC1) but lowest school participation and highest food insecurity (PC5). These regions show strong economic indicators while underinvesting in education.
 - Cluster 2: Regions with significant economic prosperity (second-highest PC1) and highest investment in school participation and food security (PC5). These areas balance economic growth with social investment.
 - Cluster 3: Regions showing only negative values across all components, particularly lowest in economic prosperity (PC1) and public infrastructure (PC2). These are areas with structural development challenges.
