@@ -1,0 +1,423 @@
+freq,unit,geo\TIME_PERIOD	2017 	2021 
+A,RT,AL	: 	1.0 
+A,RT,AL0	: 	1.0 
+A,RT,AT	1.0 	1.0 
+A,RT,AT1	1.3 	1.2 
+A,RT,AT11	0.4 	0.6 
+A,RT,AT12	0.4 	0.4 
+A,RT,AT13	2.1 	2.1 
+A,RT,AT2	0.9 	0.9 
+A,RT,AT21	0.6 	0.6 
+A,RT,AT22	1.0 	1.0 
+A,RT,AT3	0.7 	0.8 
+A,RT,AT31	0.6 	0.6 
+A,RT,AT32	1.0 	1.0 
+A,RT,AT33	1.2 	1.2 
+A,RT,AT34	0.3 	0.3 
+A,RT,BE	1.0 d	1.0 d
+A,RT,BE1	2.1 d	2.2 d
+A,RT,BE10	2.1 d	2.2 d
+A,RT,BE2	0.9 d	0.8 d
+A,RT,BE21	0.8 d	0.8 d
+A,RT,BE22	0.6 d	0.6 d
+A,RT,BE23	1.1 d	1.2 d
+A,RT,BE24	1.2 d	0.9 d
+A,RT,BE25	0.5 d	0.5 d
+A,RT,BE3	0.9 d	0.9 d
+A,RT,BE31	1.5 d	1.7 d
+A,RT,BE32	0.7 d	0.6 d
+A,RT,BE33	1.0 d	1.1 d
+A,RT,BE34	0.4 d	0.3 d
+A,RT,BE35	0.9 d	0.9 d
+A,RT,BEZ	: d	: 
+A,RT,BEZZ	: d	: 
+A,RT,BE_FRA	: d	: 
+A,RT,BE_VLA	: d	: 
+A,RT,BG	1.0 	1.0 
+A,RT,BG3	0.7 	0.7 
+A,RT,BG31	0.1 	0.2 
+A,RT,BG32	1.3 	1.1 
+A,RT,BG33	1.0 	1.0 
+A,RT,BG34	0.4 	0.4 
+A,RT,BG4	1.3 	1.3 
+A,RT,BG41	1.6 	1.6 
+A,RT,BG42	0.8 	0.8 
+A,RT,BGZ	: z	: 
+A,RT,BGZZ	: z	: 
+A,RT,CH	1.0 	1.0 
+A,RT,CH0	0.9 	0.9 
+A,RT,CH01	1.2 	1.2 
+A,RT,CH02	0.9 	0.9 
+A,RT,CH03	0.5 	0.5 
+A,RT,CH04	1.6 	1.6 
+A,RT,CH05	0.6 	0.6 
+A,RT,CH06	0.7 	0.8 
+A,RT,CH07	0.6 	0.6 
+A,RT,CY	1.0 	1.0 
+A,RT,CY0	1.0 	1.0 
+A,RT,CY00	1.0 	1.0 
+A,RT,CZ	1.0 	1.0 
+A,RT,CZ0	1.0 	1.0 
+A,RT,CZ01	3.1 	3.1 
+A,RT,CZ02	0.1 	0.1 
+A,RT,CZ03	0.8 	0.8 
+A,RT,CZ04	0.3 	0.4 
+A,RT,CZ05	0.6 	0.5 
+A,RT,CZ06	1.4 	1.4 
+A,RT,CZ07	0.8 	0.9 
+A,RT,CZ08	0.8 	0.7 
+A,RT,DE	: 	1.0 
+A,RT,DE1	: 	0.9 d
+A,RT,DE2	: 	0.8 d
+A,RT,DE3	: 	: d
+A,RT,DE4	: 	: d
+A,RT,DE5	: 	: d
+A,RT,DE6	: 	: d
+A,RT,DE7	: 	: d
+A,RT,DE8	: 	: d
+A,RT,DE9	: 	: d
+A,RT,DEA	: 	1.2 d
+A,RT,DEB	: 	0.8 d
+A,RT,DEC	: 	0.9 d
+A,RT,DED	: 	: d
+A,RT,DEE	: 	: d
+A,RT,DEF	: 	: d
+A,RT,DEG	: 	: d
+A,RT,DK	1.0 	1.0 
+A,RT,DK0	1.0 	1.0 
+A,RT,DK01	1.3 	1.3 
+A,RT,DK02	0.5 	0.5 
+A,RT,DK03	0.8 	0.8 
+A,RT,DK04	1.0 	1.0 
+A,RT,DK05	1.0 	1.0 
+A,RT,EE	1.0 	1.0 
+A,RT,EE0	1.0 	1.0 
+A,RT,EE00	1.0 	1.0 
+A,RT,EL	1.0 	1.0 
+A,RT,EL3	1.1 	1.0 
+A,RT,EL30	1.1 	1.0 
+A,RT,EL4	0.8 	0.8 
+A,RT,EL41	0.9 	0.9 
+A,RT,EL42	0.2 	0.3 
+A,RT,EL43	1.0 	1.1 
+A,RT,EL5	1.1 	1.1 
+A,RT,EL51	0.9 	1.0 
+A,RT,EL52	1.0 	1.1 
+A,RT,EL53	1.3 	1.6 
+A,RT,EL54	1.4 	1.5 
+A,RT,EL6	0.9 	0.9 
+A,RT,EL61	0.7 	0.8 
+A,RT,EL62	0.7 	0.8 
+A,RT,EL63	2.0 	1.9 
+A,RT,EL64	0.5 	0.6 
+A,RT,EL65	0.4 	0.4 
+A,RT,ES	1.0 	1.0 
+A,RT,ES1	0.8 	0.8 
+A,RT,ES11	0.8 	0.8 
+A,RT,ES12	0.8 	0.8 
+A,RT,ES13	0.8 	0.9 
+A,RT,ES2	1.0 	1.1 
+A,RT,ES21	0.9 	0.9 
+A,RT,ES22	0.9 	0.9 
+A,RT,ES23	2.3 	3.6 
+A,RT,ES24	0.9 	0.9 
+A,RT,ES3	1.4 	1.4 
+A,RT,ES30	1.4 	1.4 
+A,RT,ES4	0.8 	0.8 
+A,RT,ES41	1.0 	1.0 
+A,RT,ES42	0.6 	0.6 
+A,RT,ES43	0.7 	0.7 
+A,RT,ES5	1.0 	1.0 
+A,RT,ES51	1.1 	1.1 
+A,RT,ES52	1.0 	1.0 
+A,RT,ES53	0.5 	0.5 
+A,RT,ES6	0.9 	0.9 
+A,RT,ES61	0.9 	0.9 
+A,RT,ES62	1.1 	1.0 
+A,RT,ES63	0.7 	0.7 
+A,RT,ES64	0.7 	0.8 
+A,RT,ES7	0.7 	0.7 
+A,RT,ES70	0.7 	0.7 
+A,RT,EU27_2020	: 	1.0 d
+A,RT,FI	1.0 	1.0 
+A,RT,FI1	1.0 	1.0 
+A,RT,FI19	1.1 	1.1 
+A,RT,FI1B	1.1 	1.0 
+A,RT,FI1C	0.9 	0.9 
+A,RT,FI1D	1.0 	1.0 
+A,RT,FI2	0.4 	0.3 
+A,RT,FI20	0.4 	0.3 
+A,RT,FR	1.0 	1.0 p
+A,RT,FR1	1.4 	1.4 p
+A,RT,FR10	1.4 	1.4 p
+A,RT,FRB	0.6 	0.7 p
+A,RT,FRB0	0.6 	0.7 p
+A,RT,FRC	0.7 	0.7 p
+A,RT,FRC1	0.7 	0.7 p
+A,RT,FRC2	0.8 	0.8 p
+A,RT,FRD	0.8 	0.9 p
+A,RT,FRD1	0.8 	0.7 p
+A,RT,FRD2	0.9 	1.0 p
+A,RT,FRE	1.0 	1.0 p
+A,RT,FRE1	1.1 	1.2 p
+A,RT,FRE2	0.7 	0.7 p
+A,RT,FRF	1.0 	0.9 p
+A,RT,FRF1	1.1 	1.0 p
+A,RT,FRF2	0.9 	0.8 p
+A,RT,FRF3	0.9 	0.9 p
+A,RT,FRG	0.9 	0.9 p
+A,RT,FRG0	0.9 	0.9 p
+A,RT,FRH	1.0 	1.0 p
+A,RT,FRH0	1.0 	1.0 p
+A,RT,FRI	0.9 	0.9 p
+A,RT,FRI1	0.9 	1.0 p
+A,RT,FRI2	0.8 	0.8 p
+A,RT,FRI3	0.8 	0.7 p
+A,RT,FRJ	1.1 	1.0 p
+A,RT,FRJ1	1.0 	1.0 p
+A,RT,FRJ2	1.1 	1.1 p
+A,RT,FRK	1.1 	1.0 p
+A,RT,FRK1	0.9 	0.9 p
+A,RT,FRK2	1.1 	1.1 p
+A,RT,FRL	0.9 	0.8 p
+A,RT,FRL0	0.9 	0.8 p
+A,RT,FRM	0.4 	0.4 p
+A,RT,FRM0	0.4 	0.4 p
+A,RT,FRY	0.5 	0.6 p
+A,RT,FRY1	0.6 	0.9 p
+A,RT,FRY2	0.6 	0.3 p
+A,RT,FRY3	0.4 	0.4 p
+A,RT,FRY4	0.7 	0.7 p
+A,RT,FRY5	0.2 	0.2 p
+A,RT,HR	1.0 	1.0 
+A,RT,HR0	1.0 	1.0 
+A,RT,HR02	: 	0.5 
+A,RT,HR03	2.1 	0.9 
+A,RT,HR04	0.5 	: 
+A,RT,HR05	: 	2.5 
+A,RT,HR06	: 	0.4 
+A,RT,HU	1.0 	1.0 
+A,RT,HU1	1.8 	1.8 
+A,RT,HU11	2.8 	3.0 
+A,RT,HU12	0.4 	0.4 
+A,RT,HU2	0.6 	0.5 
+A,RT,HU21	0.4 	0.3 
+A,RT,HU22	0.6 	0.5 
+A,RT,HU23	0.9 	0.8 
+A,RT,HU3	0.7 	0.7 
+A,RT,HU31	0.5 	0.5 
+A,RT,HU32	0.7 	0.8 
+A,RT,HU33	0.8 	0.8 
+A,RT,IE	1.0 	1.0 d
+A,RT,IE0	1.0 	1.0 d
+A,RT,IE04	: 	0.9 d
+A,RT,IE05	: 	1.0 d
+A,RT,IE06	: 	1.0 d
+A,RT,IT	1.0 	1.0 
+A,RT,ITC	0.9 	1.0 
+A,RT,ITC1	0.9 	0.9 
+A,RT,ITC2	0.3 	0.3 
+A,RT,ITC3	0.7 	0.7 
+A,RT,ITC4	1.0 	1.0 
+A,RT,ITF	1.0 	1.0 
+A,RT,ITF1	1.3 	1.1 
+A,RT,ITF2	0.9 	0.8 
+A,RT,ITF3	1.2 	1.3 
+A,RT,ITF4	0.7 	0.7 
+A,RT,ITF5	0.4 	0.4 
+A,RT,ITF6	0.8 	0.8 
+A,RT,ITG	0.8 	0.7 
+A,RT,ITG1	0.8 	0.7 
+A,RT,ITG2	0.8 	0.7 
+A,RT,ITH	0.9 	0.9 
+A,RT,ITH1	0.3 	0.3 
+A,RT,ITH2	1.1 	1.0 
+A,RT,ITH3	0.8 	0.7 
+A,RT,ITH4	0.9 	0.8 
+A,RT,ITH5	1.2 	1.2 
+A,RT,ITI	1.3 	1.3 
+A,RT,ITI1	1.1 	1.0 
+A,RT,ITI2	1.0 	1.0 
+A,RT,ITI3	1.1 	1.1 
+A,RT,ITI4	1.5 	1.6 
+A,RT,LI	1.0 	1.0 
+A,RT,LI0	1.0 	1.0 
+A,RT,LI00	1.0 	1.0 
+A,RT,LT	1.0 	1.0 
+A,RT,LT0	1.0 	1.0 
+A,RT,LT01	: 	1.6 
+A,RT,LT02	: 	0.7 
+A,RT,LU	1.0 b	1.0 d
+A,RT,LU0	1.0 b	1.0 d
+A,RT,LU00	1.0 b	1.0 d
+A,RT,LV	1.0 	1.0 
+A,RT,LV0	1.0 	1.0 
+A,RT,LV00	1.0 	1.0 
+A,RT,ME	: 	1.0 
+A,RT,ME0	: 	1.0 
+A,RT,ME00	: 	1.0 
+A,RT,MK	: 	1.0 
+A,RT,MK0	: 	1.0 
+A,RT,MK00	: 	1.0 
+A,RT,MT	1.0 	1.0 
+A,RT,MT0	1.0 	1.0 
+A,RT,MT00	1.0 	1.0 
+A,RT,NL	1.0 	1.0 e
+A,RT,NL1	1.0 	1.0 e
+A,RT,NL11	1.6 	1.6 e
+A,RT,NL12	0.8 	0.8 e
+A,RT,NL13	0.5 	0.7 e
+A,RT,NL2	0.9 	0.9 e
+A,RT,NL21	0.9 	0.9 e
+A,RT,NL22	0.9 	0.9 e
+A,RT,NL23	0.7 	0.8 e
+A,RT,NL3	1.0 	1.0 e
+A,RT,NL31	1.2 	1.1 e
+A,RT,NL32	1.0 	1.0 e
+A,RT,NL33	1.0 	1.0 e
+A,RT,NL34	0.6 	0.6 e
+A,RT,NL4	0.9 	0.9 e
+A,RT,NL41	0.9 	0.9 e
+A,RT,NL42	0.8 	0.8 e
+A,RT,NO	1.0 	1.0 
+A,RT,NO0	1.0 	1.0 
+A,RT,NO01	1.3 	: 
+A,RT,NO02	0.9 	1.0 
+A,RT,NO03	0.5 	: 
+A,RT,NO04	0.7 	: 
+A,RT,NO05	1.0 	: 
+A,RT,NO06	1.8 	1.7 
+A,RT,NO07	0.9 	0.9 
+A,RT,PL	1.0 	1.0 p
+A,RT,PL2	1.0 	1.0 p
+A,RT,PL21	1.4 	1.3 p
+A,RT,PL22	0.7 	0.8 p
+A,RT,PL4	0.8 	0.8 p
+A,RT,PL41	1.1 	1.0 p
+A,RT,PL42	0.7 	0.7 p
+A,RT,PL43	0.4 	0.4 p
+A,RT,PL5	1.1 	1.1 p
+A,RT,PL51	1.2 	1.2 p
+A,RT,PL52	0.6 	0.8 p
+A,RT,PL6	0.9 	0.9 p
+A,RT,PL61	0.8 	0.8 p
+A,RT,PL62	0.6 	0.5 p
+A,RT,PL63	1.1 	1.1 p
+A,RT,PL7	0.9 	0.7 p
+A,RT,PL71	1.0 	0.9 p
+A,RT,PL72	0.6 	0.5 p
+A,RT,PL8	0.8 	0.8 p
+A,RT,PL81	1.0 	1.0 p
+A,RT,PL82	0.6 	0.6 p
+A,RT,PL84	0.8 	0.7 p
+A,RT,PL9	1.6 	1.7 p
+A,RT,PL91	2.6 	2.7 p
+A,RT,PL92	0.3 	0.3 p
+A,RT,PLZ	: z	: 
+A,RT,PLZZ	: z	: 
+A,RT,PT	1.0 	1.0 
+A,RT,PT1	1.0 	1.0 
+A,RT,PT11	0.9 	1.0 
+A,RT,PT15	0.5 	0.5 
+A,RT,PT16	1.0 	1.0 
+A,RT,PT17	1.4 	1.3 
+A,RT,PT18	0.6 	0.6 
+A,RT,PT2	0.3 	0.3 
+A,RT,PT20	0.3 	0.3 
+A,RT,PT3	0.4 	0.4 
+A,RT,PT30	0.4 	0.4 
+A,RT,RO	1.0 	: 
+A,RT,RO1	1.1 	: 
+A,RT,RO11	1.3 	: 
+A,RT,RO12	0.9 	: 
+A,RT,RO2	0.7 	: 
+A,RT,RO21	0.8 	: 
+A,RT,RO22	0.6 	: 
+A,RT,RO3	1.4 	: 
+A,RT,RO31	0.3 	: 
+A,RT,RO32	2.8 	: 
+A,RT,RO4	0.8 	: 
+A,RT,RO41	0.5 	: 
+A,RT,RO42	1.2 	: 
+A,RT,RS	: 	1.0 
+A,RT,RS1	: 	1.5 
+A,RT,RS11	: 	2.3 
+A,RT,RS12	: 	0.8 
+A,RT,RS2	: 	0.4 
+A,RT,RS21	: 	0.4 
+A,RT,RS22	: 	0.5 
+A,RT,SE	1.0 	1.0 
+A,RT,SE1	1.1 	1.0 
+A,RT,SE11	0.9 	0.9 
+A,RT,SE12	1.2 	1.2 
+A,RT,SE2	0.9 	0.9 
+A,RT,SE21	0.8 	0.9 
+A,RT,SE22	1.0 	1.0 
+A,RT,SE23	0.9 	1.0 
+A,RT,SE3	1.0 	1.1 
+A,RT,SE31	0.9 	0.9 
+A,RT,SE32	0.6 	0.8 
+A,RT,SE33	1.5 	1.5 
+A,RT,SI	1.0 	1.0 
+A,RT,SI0	1.0 	1.0 
+A,RT,SI03	0.6 	0.5 
+A,RT,SI04	1.5 	1.5 
+A,RT,SK	1.0 	1.0 
+A,RT,SK0	1.0 	1.0 
+A,RT,SK01	3.2 	3.0 
+A,RT,SK02	0.7 	0.7 
+A,RT,SK03	0.7 	0.7 
+A,RT,SK04	0.7 	0.7 
+A,RT,TR	1.0 	1.0 
+A,RT,TR1	0.7 	0.8 
+A,RT,TR10	0.7 	0.8 
+A,RT,TR2	0.6 	0.5 
+A,RT,TR21	0.7 	0.5 
+A,RT,TR22	0.6 	0.5 
+A,RT,TR3	0.5 	0.5 
+A,RT,TR31	0.5 	0.4 
+A,RT,TR32	0.6 	0.5 
+A,RT,TR33	0.7 	0.5 
+A,RT,TR4	4.9 d	4.8 
+A,RT,TR41	8.8 d	8.7 
+A,RT,TR42	0.7 	0.6 
+A,RT,TR5	0.6 	0.6 
+A,RT,TR51	0.6 	0.6 
+A,RT,TR52	0.7 	0.6 
+A,RT,TR6	0.4 	0.4 
+A,RT,TR61	0.7 	0.6 
+A,RT,TR62	0.3 	0.3 
+A,RT,TR63	0.3 	0.3 
+A,RT,TR7	0.7 	0.7 
+A,RT,TR71	0.9 	0.8 
+A,RT,TR72	0.6 	0.6 
+A,RT,TR8	0.7 	0.6 
+A,RT,TR81	1.0 	1.0 
+A,RT,TR82	0.7 	0.7 
+A,RT,TR83	0.5 	0.4 
+A,RT,TR9	0.7 	0.5 
+A,RT,TR90	0.7 	0.5 
+A,RT,TRA	1.8 d	2.7 
+A,RT,TRA1	3.2 d	5.1 
+A,RT,TRA2	0.4 	0.4 
+A,RT,TRB	0.4 	0.4 
+A,RT,TRB1	0.7 	0.6 
+A,RT,TRB2	0.3 	0.2 
+A,RT,TRC	0.2 	0.2 
+A,RT,TRC1	0.4 	0.3 
+A,RT,TRC2	0.2 	0.1 
+A,RT,TRC3	0.2 	0.2 
+A,RT,UK	1.0 d	: 
+A,RT,UKC	1.1 d	: 
+A,RT,UKD	0.9 d	: 
+A,RT,UKE	1.0 d	: 
+A,RT,UKF	1.0 d	: 
+A,RT,UKG	0.9 d	: 
+A,RT,UKH	0.6 d	: 
+A,RT,UKI	1.1 d	: 
+A,RT,UKJ	1.1 d	: 
+A,RT,UKK	0.8 d	: 
+A,RT,UKL	1.1 d	: 
+A,RT,UKM	1.4 d	: 
+A,RT,UKN	0.8 d	: 
+A,RT,UKZ	: d	: 
