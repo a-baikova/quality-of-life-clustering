@@ -3,21 +3,21 @@
 [![R Version](https://img.shields.io/badge/R-4.3.2-blue)](https://www.r-project.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes quality-of-life patterns across **241 EU NUTS-2 regions** using unsupervised learning techniques. Combining PCA and advanced clustering methods, we identified 7 distinct regional profiles.
 
-## 💡 Methodology  
+## Methodology  
 - **Data**: 70+ Eurostat indicators across 11 domains (Economy, Health, Education, etc.) in the year 2021.  
 - **Dimensionality Reduction**: PCA with Varimax rotation, reducing 48 variables to 10 components (79.2% variance explained)  
 - **Clustering**: Compared different algorithms: Ward, Complete, K-Means, PAM, GMM. K-Means had the best sillhouette score with 7 clusters
 - **Interpretation**: Geospatial visualization of regional patterns from PCA components, cluster assignments, and profiling variables
   
-## 📊 Tools & Libraries  
+## Tools & Libraries  
 - R
 - RStudio
 - Libraries: `ggplot2`, `eurostat`, `sf`, `tmap`, `corrplot`, `caret`, `tmap`, `mice`, `mclust`, `psych`, `cluster`, `gpairs`
 
-## 🔍 Results  
+## Results  
 
 **PCA Results**
 
