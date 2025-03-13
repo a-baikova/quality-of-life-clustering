@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Project Overview
-This project analyzes quality-of-life patterns across **241 EU NUTS-2 regions** using unsupervised learning techniques. Combining PCA and advanced clustering methods, we identified 7 distinct regional profiles.
+This project analyzes quality-of-life patterns across **241 EU NUTS-2 regions** using unsupervised learning techniques. Combining PCA and advanced clustering methods, we identified 7 distinct regional profiles
 
 ## Methodology  
 - **Data**: 70+ Eurostat indicators across 11 domains (Economy, Health, Education, etc.) in the year 2021.  
