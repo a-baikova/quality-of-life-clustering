@@ -8,7 +8,7 @@ This project analyzes quality-of-life patterns across **241 EU NUTS-2 regions** 
 
 ## Methodology  
 - **Data**: 70+ Eurostat indicators across 11 domains (Economy, Health, Education, etc.) in the year 2021.  
-- **Dimensionality Reduction**: PCA with Varimax rotation, reducing 48 variables to 10 components (79.2% variance explained)  
+- **Dimensionality Reduction**: PCA with Varimax rotation, reducing 48 variables to 6 components (67.1% variance explained)  
 - **Clustering**: Compared different algorithms: Ward, Complete, K-Means, PAM, GMM. K-Means had the best sillhouette score with 7 clusters
 - **Interpretation**: Geospatial visualization of regional patterns from PCA components, cluster assignments, and profiling variables
   
@@ -21,12 +21,12 @@ This project analyzes quality-of-life patterns across **241 EU NUTS-2 regions** 
 
 **PCA Results**
 
-- Economic Prosperity (GDP, compensation, life expectancy)
-- Public Infrastructure & Urban Development (rail networks, healthcare)
-- Social Inequality (unemployment, poverty, housing costs)
-- Tourism & Mobility (tourism infrastructure, passenger transport)
-- Education & Food Security (education participation)
-- Demographics & Fertility (age structure, fertility rates)
+- PC1: Economic Prosperity (GDP, compensation, life expectancy)
+- PC2: Public Infrastructure & Urban Development (rail networks, healthcare)
+- PC3: Social Inequality (unemployment, poverty, housing costs)
+- PC4: Tourism & Mobility (tourism infrastructure, passenger transport)
+- PC5: Education & Food Security (education participation)
+- PC6: Demographics & Fertility (age structure, fertility rates)
 
 **Clustering Results**
 - Cluster 1: Regions with highest economic prosperity (PC1) but lowest school participation and highest food insecurity (PC5). These regions show strong economic indicators while underinvesting in education.
